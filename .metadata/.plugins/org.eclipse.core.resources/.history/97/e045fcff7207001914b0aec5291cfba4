@@ -1,0 +1,26 @@
+package liskov.substitution.principle.main;
+
+import single.responsability.book.model.Book;
+import single.responsability.book.model.impl.BookImpl;
+
+public class App {
+
+	/*
+	 * L - Liskov Substitution Principle
+	 *
+	 *
+	 * child classes should never break the parent class type definition
+	 *
+	 * subtypes must be substitutable for their base type
+	 *
+	 * it is not independent from Open Close Principle + interface segregation Principle
+	 * interface segregation Principle --> break of interfaces into smaller interfaces
+	 *
+	 */
+
+	public static void main(String[] args) {
+		Book book1 = new BookImpl(1020, "Albert Camus");
+		book1.save();
+	}
+
+}

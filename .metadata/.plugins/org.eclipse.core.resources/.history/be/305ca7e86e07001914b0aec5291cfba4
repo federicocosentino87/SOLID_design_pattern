@@ -1,0 +1,17 @@
+package open.closed.principles.impl;
+
+import open.closed.principles.api.SortType;
+import open.closed.principles.base.Sorter;
+
+public class InsertionSort extends Sorter {
+
+	public InsertionSort() {
+		super.type = SortType.INSERTIONSORT;
+	}
+
+	@Override
+	protected void sort() {
+		System.out.println("Sorting with insertionsort....");
+	}
+
+}

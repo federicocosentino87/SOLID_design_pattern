@@ -1,0 +1,7 @@
+package open.closed.principles;
+
+import open.closed.principles.api.SortType;
+
+public interface Sorter {
+	public abstract void sort();
+}

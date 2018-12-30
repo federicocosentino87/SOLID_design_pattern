@@ -1,0 +1,5 @@
+package open.closed.principles.api.manager;
+
+public class SorterManager {
+
+}

@@ -1,0 +1,17 @@
+package open.closed.principles.impl;
+
+import open.closed.principles.api.SortType;
+import open.closed.principles.base.BaseSorter;
+
+public class MergeSort extends BaseSorter {
+
+	public MergeSort() {
+		super.type = SortType.MERGESORT;
+	}
+
+	@Override
+	protected void sort() {
+		System.out.println("Sorting with mergesort....");
+	}
+
+}

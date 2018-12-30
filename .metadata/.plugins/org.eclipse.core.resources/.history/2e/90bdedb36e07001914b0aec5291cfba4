@@ -1,0 +1,26 @@
+package open.closed.principles.api.manager;
+
+import open.closed.principles.api.SortType;
+import open.closed.principles.base.Sorter;
+
+public class SorterManager {
+
+	public void sort(Sorter sorter) {
+
+		if (sorter.type == SortType.INSERTIONSORT) {
+			doInsertionSort(sorter);
+		}
+		else if (sorter.type == SortType.MERGESORT) {
+			doMergeSort(sorter);
+		}
+	}
+
+	private void doMergeSort(Sorter sorter) {
+		sorter.sort();
+	}
+
+	private void doInsertionSort(Sorter sorter) {
+		sorter.sort();
+	}
+
+}

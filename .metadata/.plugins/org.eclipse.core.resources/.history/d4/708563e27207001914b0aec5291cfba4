@@ -1,0 +1,5 @@
+package liskov.substitution.principle.main;
+
+public class App {
+
+}

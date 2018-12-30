@@ -1,0 +1,5 @@
+package dependency.inversion.principle.main;
+
+public class OracleDatatabase {
+
+}

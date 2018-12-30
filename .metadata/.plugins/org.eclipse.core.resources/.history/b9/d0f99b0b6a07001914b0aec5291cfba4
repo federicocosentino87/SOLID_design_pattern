@@ -1,0 +1,9 @@
+package solid.principles.book.model;
+
+public interface Book {
+
+	public void print();
+
+	public void save();
+
+}

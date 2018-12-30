@@ -1,0 +1,19 @@
+package liskov.substitution.principle.vehicle.impl;
+
+import Vehicle;
+
+public class Car extends Vehicle implements liskov.substitution.principle.Vehicle {
+
+	@Override
+	public void speed() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void addFuel() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

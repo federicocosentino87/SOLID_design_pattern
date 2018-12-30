@@ -1,0 +1,15 @@
+package segregation.principle.main;
+
+public class App {
+
+	/*
+	 * I - Interface segregation principle
+	 *
+	 *
+	 */
+
+	public static void main(String[] args) {
+
+	}
+
+}

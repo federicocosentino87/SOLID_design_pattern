@@ -1,0 +1,11 @@
+1545648128972	Move compilation unit
+1545648176530	Rename type 'BookHandelr'
+1545648378489	Move compilation unit
+1545648383090	Delete element
+1545648396830	Rename type 'Book'
+1545648409365	Move compilation unit
+1545648415764	Rename type 'BookHandler'
+1545651081965	Rename package 'solid.principles.book.model'
+1545651093680	Rename package 'solid.principles.book.model.impl'
+1545651098919	Rename package 'solid.principles.book.persistence'
+1545651110162	Rename package 'solid.principles.main'

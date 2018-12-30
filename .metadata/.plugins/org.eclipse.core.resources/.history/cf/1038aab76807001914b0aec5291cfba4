@@ -1,0 +1,5 @@
+package solid.principles.book.api;
+
+public interface BookHandler {
+
+}

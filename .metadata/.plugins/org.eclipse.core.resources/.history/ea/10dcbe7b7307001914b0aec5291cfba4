@@ -1,0 +1,17 @@
+package liskov.substitution.principle.vehicle.impl;
+
+import liskov.substitution.principle.Vehicle;
+
+public class Car implements Vehicle {
+
+	@Override
+	public void speed() {
+		System.out.println("Speed up the car...");
+	}
+
+	@Override
+	public void addFuel() {
+		System.out.println("Add some fuel...");
+	}
+
+}

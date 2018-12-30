@@ -1,0 +1,18 @@
+package dependency.inversion.principle.main;
+
+public class DatabaseHandler {
+
+	private MySQLDatabase mySQLDatabase;
+
+	public DatabaseHandler() {
+		this.mySQLDatabase = new MySQLDatabase();
+	}
+
+	public void connect() {
+		mySQLDatabase.connect();
+	}
+
+	public void disconnect() {
+		mySQLDatabase.discconnect();
+	}
+}

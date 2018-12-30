@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="solid.principles.book.api.BookHandler"/>
+<fullyQualifiedTypeName name="solid.principles.book.persistence.BookPersistence"/>
+<fullyQualifiedTypeName name="java.awt.print.Book"/>
+<fullyQualifiedTypeName name="solid.principles.book.model.impl.BookImpl"/>
+<fullyQualifiedTypeName name="solid.principles.book.model.Book"/>
+<fullyQualifiedTypeName name="open.closed.principles.api.SortType"/>
+<fullyQualifiedTypeName name="open.closed.principles.base.BaseSorter"/>
+<fullyQualifiedTypeName name="open.closed.principles.api.manager.SorterManager"/>
+<fullyQualifiedTypeName name="open.closed.principles.impl.MergeSort"/>
+<fullyQualifiedTypeName name="open.closed.principles.Sorter"/>
+<fullyQualifiedTypeName name="liskov.substitution.principle.Vehicle"/>
+<fullyQualifiedTypeName name="liskov.substitution.principle.vehicle.Vehicle"/>
+<fullyQualifiedTypeName name="liskov.substitution.principle.vehicle.impl.ElectricCar"/>
+<fullyQualifiedTypeName name="liskov.substitution.principle.vehicles.ElectricVehicle"/>
+<fullyQualifiedTypeName name="segregation.principle.main.Tree"/>
+<fullyQualifiedTypeName name="segregation.principle.main.BalanceTree"/>
+<fullyQualifiedTypeName name="segregation.principle.tree.Tree"/>
+<fullyQualifiedTypeName name="segregation.principle.tree.impl.BinarySearchTreeImpl"/>
+<fullyQualifiedTypeName name="segregation.principle.tree.impl.BalancedTreeImpl"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="dependency.inversion.principle.main.DatabaseHandler"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="dependency.inversion.principle.main.Database"/>
+<fullyQualifiedTypeName name="dependency.inversion.principle.main.MySQLDatabase"/>
+</qualifiedTypeNameHistroy>

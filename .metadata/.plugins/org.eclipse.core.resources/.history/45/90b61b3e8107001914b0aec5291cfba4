@@ -1,0 +1,8 @@
+package segregation.principle.api;
+
+public interface BalanceTree {
+
+	public void rightRotation();
+	public void leftRotation();
+
+}

@@ -1,0 +1,7 @@
+package open.closed.principles.impl;
+
+import Sorte;
+
+public class MergeSort extends Sorte {
+
+}

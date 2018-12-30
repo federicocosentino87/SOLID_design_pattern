@@ -1,0 +1,5 @@
+package segregation.principle.main;
+
+public interface Tree {
+	public int findMax();
+}

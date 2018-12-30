@@ -1,0 +1,8 @@
+package solid.principles.main;
+
+public class App {
+
+	public static void main(String[] args) {
+
+	}
+}

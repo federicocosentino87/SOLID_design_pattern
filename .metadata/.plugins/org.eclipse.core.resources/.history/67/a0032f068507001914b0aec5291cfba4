@@ -1,0 +1,11 @@
+package dependency.inversion.principle.main;
+
+public class OracleDatatabase {
+	public void connect() {
+		System.out.println("Connecting to Oracle database.....");
+	}
+
+	public void discconnect() {
+		System.out.println("Disconnecting to Oracle database.....");
+	}
+}
