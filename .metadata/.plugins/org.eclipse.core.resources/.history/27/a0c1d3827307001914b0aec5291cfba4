@@ -1,6 +1,0 @@
-package liskov.substitution.principle;
-
-public interface Vehicle {
-	public void speed();
-	public void addFuel();
-}

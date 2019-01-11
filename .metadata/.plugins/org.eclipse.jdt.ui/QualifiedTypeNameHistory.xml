@@ -19,9 +19,22 @@
 <fullyQualifiedTypeName name="segregation.principle.tree.Tree"/>
 <fullyQualifiedTypeName name="segregation.principle.tree.impl.BinarySearchTreeImpl"/>
 <fullyQualifiedTypeName name="segregation.principle.tree.impl.BalancedTreeImpl"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="dependency.inversion.principle.main.DatabaseHandler"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="dependency.inversion.principle.main.Database"/>
 <fullyQualifiedTypeName name="dependency.inversion.principle.main.MySQLDatabase"/>
+<fullyQualifiedTypeName name="com.strategy.Strategy"/>
+<fullyQualifiedTypeName name="com.strategy.Manager"/>
+<fullyQualifiedTypeName name="com.strategy.Add"/>
+<fullyQualifiedTypeName name="com.observer.Observer"/>
+<fullyQualifiedTypeName name="com.observer.Subject"/>
+<fullyQualifiedTypeName name="com.observer.WeatherStation"/>
+<fullyQualifiedTypeName name="com.observer.WeatherObserver"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.command.Switcher"/>
+<fullyQualifiedTypeName name="com.command.Light"/>
+<fullyQualifiedTypeName name="com.command.TurnOffCommand"/>
+<fullyQualifiedTypeName name="com.command.TurnOnCommand"/>
 </qualifiedTypeNameHistroy>

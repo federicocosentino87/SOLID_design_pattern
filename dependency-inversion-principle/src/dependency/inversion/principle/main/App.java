@@ -10,9 +10,9 @@ public class App {
 	 * then the high level --> that rely on the low level one
 	 *
 	 *
-	 *this is not good especially if we want to change low level module
+	 * this is not good especially if we want to change low level module
 	 *
-	 * So high level should not depends on high level modules
+	 * So high level should not depends on low level modules
 	 *
 	 * -------------------------------------------------------
 	 *

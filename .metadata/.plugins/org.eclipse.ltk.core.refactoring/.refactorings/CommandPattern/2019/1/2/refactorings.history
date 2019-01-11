@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TurnOnCommand.java&apos; to &apos;com.command.TurnOnCommand.java&apos;&#x0D;&#x0A;- Original project: &apos;CommandPattern&apos;&#x0D;&#x0A;- Destination element: &apos;com.command.TurnOnCommand.java&apos;&#x0D;&#x0A;- Original element: &apos;com.command.TurnOnCommand.java&apos;" description="Copy compilation unit" destination="/src&lt;com.command{TurnOnCommand.java" element1="/src&lt;com.command{TurnOnCommand.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1547208673971" units="1" version="1.0"/>
+</session>

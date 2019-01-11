@@ -1,5 +1,0 @@
-package liskov.substitution.principle.vehicles;
-
-public interface ElectricVehicle {
-
-}

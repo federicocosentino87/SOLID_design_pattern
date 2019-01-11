@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=open-closed-principles/src&lt;open.closed.principles{Sorter.java[Sorter" modifiers="513" timestamp="1545651352325"/>
+<typeInfo handle="=StrategyPattern/src&lt;com.strategy{Strategy.java[Strategy" modifiers="513" timestamp="1547200467529"/>
+<typeInfo handle="=ObserverPattern/src&lt;com.observer{Subject.java[Subject" modifiers="513" timestamp="1547205178443"/>
+<typeInfo handle="=ObserverPattern/src&lt;com.observer{Observer.java[Observer" modifiers="513" timestamp="1547205048585"/>
+<typeInfo handle="=CommandPattern/src&lt;com.command{Command.java[Command" modifiers="513" timestamp="1547207598979"/>
 </typeInfoHistroy>

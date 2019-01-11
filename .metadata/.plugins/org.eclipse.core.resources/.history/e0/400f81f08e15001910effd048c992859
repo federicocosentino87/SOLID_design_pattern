@@ -1,0 +1,16 @@
+package com.strategy;
+
+//Separate behavior from implementation
+
+public class App {
+	
+	public static void  main (String[] args) {
+		
+		Manager manager = new Manager();
+		
+		manager.setStrategy(new Add());
+		
+		manager.operation(3, 1);
+	}
+
+}

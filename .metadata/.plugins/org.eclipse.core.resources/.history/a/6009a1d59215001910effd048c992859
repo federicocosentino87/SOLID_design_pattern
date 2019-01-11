@@ -1,0 +1,11 @@
+package com.observer;
+
+public class WeatherObserver implements Observer {
+
+	@Override
+	public void update(int pressure, int temperature, int humidity) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

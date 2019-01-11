@@ -1,5 +1,0 @@
-package solid.principles.book.api;
-
-public interface BookHandelr {
-
-}

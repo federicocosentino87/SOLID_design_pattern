@@ -1,0 +1,9 @@
+package com.observer;
+
+//class open for extension, but close for modification
+
+//object interact with each other, but they are indipendent
+
+public class App {
+
+}

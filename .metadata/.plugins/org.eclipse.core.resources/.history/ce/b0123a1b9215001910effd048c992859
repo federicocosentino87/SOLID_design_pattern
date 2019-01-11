@@ -1,0 +1,27 @@
+package com.observer;
+
+public class WeatherStation implements Subject {
+
+	private int pressure;
+	private int temperature;
+	private int humidity;
+	
+	@Override
+	public void addObserver(Observer o) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void removeObserver(Observer o) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void notifyAllObserver() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

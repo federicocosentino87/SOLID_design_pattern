@@ -1,0 +1,11 @@
+package com.command;
+
+import java.util.List;
+
+//Invoker
+
+public class Switcher {
+
+	public List<Command> commands;
+	
+}

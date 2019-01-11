@@ -1,5 +1,0 @@
-package open.closed.principles.base;
-
-public abstract class Sorter {
-
-}

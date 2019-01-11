@@ -1,0 +1,11 @@
+package com.command;
+
+// The object invoking the computation knows nothing about the implementation
+
+public class App {
+
+	public static void main(String[] args) {
+		
+	}
+	
+}
